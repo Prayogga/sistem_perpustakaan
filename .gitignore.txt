@@ -1,0 +1,4 @@
+.vis/
+Tugas_6/bin
+Tugas_6/obj/Debug
+Tugas_6/Release
